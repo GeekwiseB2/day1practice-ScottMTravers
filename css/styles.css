@@ -6,6 +6,7 @@ li {
 @media screen and (min-width: 300px) {
   .col-md-3 {
     background-color: blue;
+    color: #C8F7C5;
   }
 }
 
